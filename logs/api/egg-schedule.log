@@ -1,0 +1,15 @@
+2021-06-19 15:49:02,614 INFO 1712 [Timer] D:\code\api\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45657393ms at 2021-06-20 04:30:00.007
+2021-06-19 15:49:02,615 INFO 1712 [Timer] D:\code\api\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29457386ms at 2021-06-20 00:00:00.001
+2021-06-19 15:49:02,616 INFO 1712 [Timer] D:\code\api\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29458385ms at 2021-06-20 00:00:01.001
+2021-06-19 15:49:02,356 INFO 16616 [egg-schedule]: register schedule D:\code\api\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-06-19 15:49:02,356 INFO 16616 [egg-schedule]: register schedule D:\code\api\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-06-19 15:49:02,356 INFO 16616 [egg-schedule]: register schedule D:\code\api\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-06-19 15:54:18,309 INFO 9728 [egg-schedule]: register schedule D:\code\api\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-06-19 15:54:18,309 INFO 9728 [egg-schedule]: register schedule D:\code\api\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-06-19 15:54:18,309 INFO 9728 [egg-schedule]: register schedule D:\code\api\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-06-19 15:54:30,051 INFO 11620 [egg-schedule]: register schedule D:\code\api\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-06-19 15:54:30,051 INFO 11620 [egg-schedule]: register schedule D:\code\api\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-06-19 15:54:30,051 INFO 11620 [egg-schedule]: register schedule D:\code\api\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-06-19 15:54:30,226 INFO 16548 [Timer] D:\code\api\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45329778ms at 2021-06-20 04:30:00.004
+2021-06-19 15:54:30,226 INFO 16548 [Timer] D:\code\api\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29129774ms at 2021-06-20 00:00:00.000
+2021-06-19 15:54:30,227 INFO 16548 [Timer] D:\code\api\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29130774ms at 2021-06-20 00:00:01.001
